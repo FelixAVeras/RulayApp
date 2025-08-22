@@ -1,0 +1,15 @@
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\bin\Debug\netstandard2.0\RulayApp.deps.json
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\bin\Debug\netstandard2.0\RulayApp.dll
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\bin\Debug\netstandard2.0\ref\RulayApp.dll
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\bin\Debug\netstandard2.0\RulayApp.pdb
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.csproj.AssemblyReference.cache
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.AssemblyInfoInputs.cache
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.AssemblyInfo.cs
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.csproj.CoreCompileInputs.cache
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.dll
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\refint\RulayApp.dll
+C:\Users\Felix Ant. Veras\Documents\informatica\proyectos\RulayApp\RulayApp\RulayApp\obj\Debug\netstandard2.0\RulayApp.pdb
